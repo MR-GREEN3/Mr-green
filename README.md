@@ -19,8 +19,8 @@ pip install futures
 rm -rf Mr-green
 
 git clone 
-
 https://github.com/MR-GREEN3/Mr-green
+
 
 cd Mr-green
 
